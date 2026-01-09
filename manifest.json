@@ -1,0 +1,9 @@
+{
+  "name": "BillSplit",
+  "short_name": "BillSplit",
+  "start_url": "/demo1.php",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "icons": []
+}
